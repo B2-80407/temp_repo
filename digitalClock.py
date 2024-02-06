@@ -8,3 +8,4 @@ window.configurre(bg="steelblue")
 label = label(window, text="welcome!", font=("Arial Black" , 78 , "bold") , bg = "steelblue")
 
 window.mainloop()
+prnit("HI")
